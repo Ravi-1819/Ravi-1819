@@ -39,9 +39,9 @@
 
 ## 📊 GitHub Stats
 
-![Ravi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ravi-1819&show_icons=true&theme=dark&hide_border=true&count_private=true)
+![Ravi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ravi-1819&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ravi-1819&layout=compact&theme=dark&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=Ravi-1819&theme=tokyonight&hide_border=true)
 
 ---
 
