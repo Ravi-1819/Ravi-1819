@@ -39,7 +39,7 @@
 
 ## 📊 GitHub Stats
 
-![Ravi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ravi-1819&show_icons=true&theme=dark&hide_border=true)
+![Ravi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ravi-1819&show_icons=true&theme=dark&hide_border=true&count_private=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ravi-1819&layout=compact&theme=dark&hide_border=true)
 
