@@ -39,9 +39,13 @@
 
 ## 📊 GitHub Stats
 
-![Ravi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ravi-1819&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+## 📊 GitHub Stats
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ravi-1819&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github)](https://github.com/Ravi-1819)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ravi-1819&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)](https://github.com/Ravi-1819)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ravi-1819&layout=compact&theme=tokyonight&hide_border=true)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Ravi-1819&theme=tokyonight&hide_border=true)
 
 ---
 
