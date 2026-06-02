@@ -47,7 +47,14 @@
 
 ## 📁 Featured Projects
 
-🐳 **Docker Web App** — Containerized web app on AWS EC2 — Coming Soon  
+🐳 Dockerized Portfolio Website
+
+- Built using HTML & CSS
+- Containerized using Docker
+- Created custom Docker Image
+- Deployed on AWS EC2
+- Exposed via Port 80
+- Managed using Docker CLI  
 🔧 **Jenkins CI/CD** — Automated pipeline with GitHub webhooks — Coming Soon  
 🏗️ **Terraform AWS** — Infrastructure as Code on AWS — Coming Soon  
 🚀 **Full CI/CD Pipeline** — End-to-End automation — Coming Soon  
