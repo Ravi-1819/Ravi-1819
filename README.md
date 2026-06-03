@@ -54,7 +54,13 @@
 - Created custom Docker Image
 - Deployed on AWS EC2
 - Exposed via Port 80
-- Managed using Docker CLI  
+- Managed using Docker CLI
+- 
+- ### 🐍 Dockerized Flask Web Application
+- Built a Flask-based Web Application with REST API endpoints.
+- Containerized the application using Docker and Docker Compose.
+- Published custom Docker Images to Docker Hub.
+- Deployed and tested the application on AWS EC2.  
 🔧 **Jenkins CI/CD** — Automated pipeline with GitHub webhooks — Coming Soon  
 🏗️ **Terraform AWS** — Infrastructure as Code on AWS — Coming Soon  
 🚀 **Full CI/CD Pipeline** — End-to-End automation — Coming Soon  
