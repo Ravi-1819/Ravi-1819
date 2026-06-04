@@ -61,9 +61,8 @@
 - Containerized the application using Docker and Docker Compose.
 - Published custom Docker Images to Docker Hub.
 - Deployed and tested the application on AWS EC2.  
-🔧 **Jenkins CI/CD** — Automated pipeline with GitHub webhooks — Coming Soon  
+🔧 **Jenkins CI/CD** — Fully automated CI/CD pipeline using Jenkins integrating GitHub, Docker, and AWS EC2 for continuous build, containerization, and deployment.  
 🏗️ **Terraform AWS** — Infrastructure as Code on AWS — Coming Soon  
-🚀 **Full CI/CD Pipeline** — End-to-End automation — Coming Soon  
 
 ---
 
