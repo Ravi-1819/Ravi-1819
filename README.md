@@ -63,8 +63,8 @@
 - Deployed and tested the application on AWS EC2.  
 🔧 **Jenkins CI/CD** — Live Application:
 http://43.204.207.188:5000
+Deployed using Jenkins CI/CD pipeline with Docker on AWS EC2 (Elastic IP enabled for stability)
 
-Deployed using Jenkins CI/CD pipeline with Docker on AWS EC2 (Elastic IP enabled for stability)  
 🏗️ **Terraform AWS** — Infrastructure as Code on AWS — Coming Soon  
 
 ---
